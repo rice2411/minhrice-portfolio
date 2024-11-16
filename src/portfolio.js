@@ -14,7 +14,7 @@ const seo = {
   og: {
     title: "Minh Rice Portfolio",
     type: "website",
-    url: "https://hulk-pham.vercel.app/",
+    url: "https://minhrice-portfolio.vercel.app/",
   },
 };
 
