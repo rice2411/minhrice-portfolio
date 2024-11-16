@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "mdp-diffusion",
+      "createdAt": "2023-04-01T04:18:19Z",
+      "url": "https://github.com/rice2411/NextJS-Template",
+      "description": "Next.js template with TypeScript, ESLint, Prettier, Jest, and Husky,...",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Javascript",
+          "iconifyClass": "skill-icons:javascript"
+        },
+        {
+          "name": "Typescript",
+          "iconifyClass": "skill-icons:typescript"
+        },
+        {
+          "name": "Next.js",
+          "iconifyClass": "logos:nextjs-icon"
+        }
+      ]
+    }
+  ]
+}
